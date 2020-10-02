@@ -19,7 +19,7 @@ Define Database in .env File
 
 Migrate Database in your terminal/shell, type php artisan migrate:fresh
 
-Php artisan server 
+Php artisan serve 
 
 Enjoy building your API
 
